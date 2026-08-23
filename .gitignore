@@ -1,0 +1,31 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+target/
+.kotlin/
+
+# Outras IDEs (Eclipse, NetBeans, VS Code)
+.classpath
+.project
+.settings/
+bin/
+/nbproject/private/
+/nbbuild/
+/dist/
+.vscode/
+
+# Arquivos Compilados do Java
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+
+# Logs e arquivos temporários
+*.log
+.DS_Store
+hs_err_pid*
+replay_pid*
