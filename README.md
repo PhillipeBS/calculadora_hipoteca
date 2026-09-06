@@ -18,16 +18,22 @@ Calculadora de hipoteca desenvolvida em Java para determinar o valor da prestaç
 
 Clone o repositório e acesse o diretório do projeto.
 
+Acesse a pasta `src`:
+
+```bash
+cd src
+```
+
 Compile a aplicação:
 
 ```bash
-javac CalculadoraHipoteca.java
+javac main/java/phillipe/CalculadoraHipoteca.java
 ```
 
 Execute:
 
 ```bash
-java CalculadoraHipoteca
+java main.java.phillipe.CalculadoraHipoteca
 ```
 
 ## Exemplo
