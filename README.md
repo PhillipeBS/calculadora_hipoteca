@@ -71,6 +71,16 @@ src/
             └── CalculadoraHipoteca.java
 ```
 
+## Conceitos utilizados
+
+* Variáveis e constantes
+* Estruturas condicionais (`if`, `while`)
+* Laços de repetição (`while`)
+* Entrada de dados com `Scanner`
+* Funções matemáticas com `Math`
+* Formatação de valores com `NumberFormat`
+* Conversão de tipos
+
 ## Tecnologias
 
 * Java
