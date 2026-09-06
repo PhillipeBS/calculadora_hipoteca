@@ -43,7 +43,7 @@ Capital: 300000
 Taxa de juros anual: 10
 Período (Anos): 20
 
-Prestação mensal: R$ 2.895,98
+Prestação mensal: R$ 2.895,07
 ```
 
 ## Cálculo
