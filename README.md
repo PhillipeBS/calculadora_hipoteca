@@ -64,11 +64,14 @@ Onde:
 ## Estrutura
 
 ```text
-src/
-└── main/
-    └── java/
-        └── phillipe/
-            └── CalculadoraHipoteca.java
+calculadora_hipoteca/
+├── .gitignore
+├── README.md
+└── src/
+    └── main/
+        └── java/
+            └── phillipe/
+                └── CalculadoraHipoteca.java
 ```
 
 ## Conceitos utilizados
